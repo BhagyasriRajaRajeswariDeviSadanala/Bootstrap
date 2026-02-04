@@ -19,14 +19,9 @@ Bootstrap 5
 <li>Tested the pages on different screen sizes.</li>
 <li>Uploaded the project to GitHub and deployed it using GitHub Pages.</li>
 </ol>
-# Tools & Resources Used
+<b>Tools & Resources Used</b>
 Bootstrap 5 Official Documentation
 Bootstrap Examples
 ChatGPT for guidance and understanding layout composition
 GitHub for repository hosting and live deployment
-Challenges Faced
-Maintaining consistent spacing and alignment across pages
-Understanding how Bootstrap grid behaves on different screen sizes
-How the Challenges Were Solved
-Used Bootstrap utility classes like container, row, col-md-*, and spacing utilities (m-*, p-*)
-Tested responsiveness using browser developer tools
+
